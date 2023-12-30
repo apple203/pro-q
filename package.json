@@ -1,0 +1,11 @@
+{
+  "name": "myproject-23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
